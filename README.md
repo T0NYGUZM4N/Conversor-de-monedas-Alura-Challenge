@@ -42,9 +42,9 @@ cd Conversor-de-monedas-Alura-Challenge
 
 ## 📄 Estructura del proyecto
 ```bash
-📁 conversor-monedas-java
+📁 src
 │
-├── Main.java              # Lógica principal y menú interactivo
+├── ConversorApp.java              # Lógica principal y menú interactivo
 ├── ExchangeResponse.java  # Clase auxiliar para el JSON
 └── README.md              # Este archivo :)
 ```
